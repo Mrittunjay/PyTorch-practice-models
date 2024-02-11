@@ -6,3 +6,5 @@ These are PyTorch practice models to familiarize with PyTorch deep learning libr
 **01_pytorch_workflow.ipynb** : PyTorch basics(Data preparation, Model creation, Training and Testing loop), Linear Regression Practice model.
 
 **02_neural_network_binary_classification_with_pytorch.ipynb** : Binary classification model using PyTorch and dummy data
+
+**03_multiclass-classification-with-pytorch.ipynb** : Multiclass classification using Neural Networks from PyTorch
