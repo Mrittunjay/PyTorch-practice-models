@@ -8,3 +8,5 @@ These are PyTorch practice models to familiarize with PyTorch deep learning libr
 **02_neural_network_binary_classification_with_pytorch.ipynb** : Binary classification model using PyTorch and dummy data
 
 **03_multiclass-classification-with-pytorch.ipynb** : Multiclass classification using Neural Networks from PyTorch
+
+: The model classifies different fashion items like dress, shoes, t-shirt. The dataset contains 28x28 pixel images of various fashion items. 
